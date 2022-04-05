@@ -2,4 +2,5 @@
 - 👀 I’m interested in Blockchaintechnology
 - 🌱 I’m currently learning at Hochschule Stralsund
 - 📫 How to reach me:
-shamil.gradov@hochschule´-stralsund.de
+shamil.gradov@hochschule-stralsund.de
+shamilgradov@hotmail.com
